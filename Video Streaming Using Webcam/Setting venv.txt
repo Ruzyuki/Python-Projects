@@ -1,0 +1,26 @@
+C:\Users\HP>                                                                      cd C:\Users\HP\ML DATASETS\SELF\Flask\Video Streaming Using Webcam
+
+C:\Users\HP\ML DATASETS\SELF\Flask\Video Streaming Using Webcam>                  virtualenv venv
+
+C:\Users\HP\ML DATASETS\SELF\Flask\Video Streaming Using Webcam>                 vir
+
+(venv) C:\Users\HP\ML DATASETS\SELF\Flask\Video Streaming Using Webcam>           pip freeze
+
+(venv) C:\Users\HP\ML DATASETS\SELF\Flask\Video Streaming Using Webcam>           pip install opencv-contrib-python
+
+(venv) C:\Users\HP\ML DATASETS\SELF\Flask\Video Streaming Using Webcam>           pip install flask
+
+(venv) C:\Users\HP\ML DATASETS\SELF\Flask\Video Streaming Using Webcam>           pip freeze
+
+
+click==8.1.3
+colorama==0.4.5
+Flask==2.1.2
+importlib-metadata==4.12.0
+itsdangerous==2.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.1
+numpy==1.23.0
+opencv-contrib-python==4.6.0.66
+Werkzeug==2.1.2
+zipp==3.8.0
